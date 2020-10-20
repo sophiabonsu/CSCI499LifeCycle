@@ -1,14 +1,14 @@
 //
-//  SettingsViewController.swift
+//  NotificationsViewController.swift
 //  LifeCycle
 //
-//  Created by John Solano on 10/8/20.
+//  Created by John Solano on 10/15/20.
 //  Copyright © 2020 John Solano. All rights reserved.
 //
 
 import UIKit
 
-class SettingsViewController: UINavigationController {
+class NotificationsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
